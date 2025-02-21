@@ -1,5 +1,5 @@
 # Hi 👋, I'm Siddhesh Suthar
-🚀 Currently Working On<br>College Website – A platform for students to access study materials.<br>Human Emotion Analysis – Exploring AI-based methods for detecting and interpreting emotional states from voice, facial expressions, or sensor data.<br><br>🤝 Looking to Collaborate On<br>Robotics & Embedded AI projects (Arduino, ESP32, BeagleBone).<br>Software Development (C++, DSA, Web Dev, CAD/SolidWorks projects).<br><br>🛠 Seeking Help With<br>Advanced SolidWorks & CAD modeling.<br>C++ DSA for software job opportunities.<br>Freelance gigs in CAD/Web Dev for financial stability.<br><br>🌱 Currently Learning<br>C++ DSA & Development for career growth.<br>Embedded Systems (ESP32, ESP8266, Beagle Bone).<br>SolidWorks for robotics modeling & simulation.<br><br>💡 Ask Me About<br>Robotics, AI-driven embedded systems, and Arduino/ESP projects.<br>Career shifts between Robotics, Software, and CAD Engineering.
+🚀 Currently Working On - College Website | Human Emotion Analysis <br>🤝 Looking to Collaborate On - Robotics & Embedded AI projects | Software Development<br>🛠 Seeking Help With - C++ DSA for software job opportunities<br>🌱 Currently Learning - Robotics & Automation Systems <br>💡 Ask Me About - Robotics, AI-driven embedded systems, and Arduino/ESP projects.
 
 
 ## 🌐 Socials:
